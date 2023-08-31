@@ -42,5 +42,5 @@ Copy code
 
 
 ## Download Project Review
-![Project Screenshot]([https://example.com/path-to-your-image.png](https://drive.google.com/uc?export=download&id=1p8Q2v0jQidnocT4eBz3Ux8P3Nvr45smS)
+![Project Screenshot](https://drive.google.com/uc?export=download&id=1p8Q2v0jQidnocT4eBz3Ux8P3Nvr45smS)
 
