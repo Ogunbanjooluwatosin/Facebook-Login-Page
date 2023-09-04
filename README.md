@@ -39,10 +39,11 @@ Copy code
 
 ### Customization (if applicable)
 - If you wish to customize the clone, modify the CSS styles in the `styles.css` file to suit your preferences.
-
+Project Demo Picture
+![Facebook Login Clone Screenshot](https://drive.google.com/uc?export=download&id=1p8Q2v0jQidnocT4eBz3Ux8P3Nvr45smS)
 
 ##Project Demo Video
-[![Demo Video](https://drive.google.com/file/d/1KKtymRnz36sivwsJifNF_gMyZ0DyDwed/preview)](https://drive.google.com/file/d/1KKtymRnz36sivwsJifNF_gMyZ0DyDwed/preview)
+[![Facebook Login Clone Video](https://drive.google.com/file/d/1KKtymRnz36sivwsJifNF_gMyZ0DyDwed/preview)](https://drive.google.com/file/d/1KKtymRnz36sivwsJifNF_gMyZ0DyDwed/preview)
 
 
 Watch this video to see the key features of our project in action.
